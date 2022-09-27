@@ -39,3 +39,13 @@ header a{
     width: 60%;
 }
 /* #endregion hero */
+
+/* #region portfolio */
+.portfolio .container{
+    color: var(--text);
+}
+.black_bar{
+    border: 2px solid var(--text);
+    width: 60%;
+}
+/* #endregion porfolio */
