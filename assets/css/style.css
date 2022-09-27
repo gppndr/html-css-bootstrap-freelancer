@@ -40,7 +40,7 @@ header a{
 }
 /* #endregion hero */
 
-/* #region portfolio */
+/* #region about */
 .portfolio .container{
     color: var(--text);
 }
@@ -49,3 +49,7 @@ header a{
     width: 60%;
 }
 /* #endregion porfolio */
+form{
+    width: 50%;
+    color: var(--text);
+}
