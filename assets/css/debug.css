@@ -1,5 +1,4 @@
     .debug .hero, .debug .about{
-        background-color: aquamarine;
         height: 495px;
     }
     .debug .contact{
@@ -7,11 +6,9 @@
     }
 
     .debug .footer_top{
-        background-color: gray;
         height: 220px;
     }
     .debug .footer_bottom{
-        background-color: lightslategray;
         height: 60px;
     }
     

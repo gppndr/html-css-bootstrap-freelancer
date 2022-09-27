@@ -1,0 +1,26 @@
+/* color palette */
+:root {
+    --text: #212529;
+  --green-main: #1abc9c;
+  --nav-footer-top: #2c3e50;
+  --footer-bottom: #3a546d;
+}
+/* #region background color */
+#site_header, .footer_top{
+    background-color: var(--nav-footer-top);
+}
+.hero, .about{
+    background-color: var(--green-main);
+}
+.footer_bottom{
+    background-color: var(--footer-bottom);
+}
+/* #endregion */
+
+/* #region header */
+header a{
+    text-transform: uppercase;
+}
+.ms-btn-nav{
+    border: 1px solid lightgray
+}
