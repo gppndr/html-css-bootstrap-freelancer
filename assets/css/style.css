@@ -24,3 +24,18 @@ header a{
 .ms-btn-nav{
     border: 1px solid lightgray
 }
+/* #endregion header */
+
+/* #region main */
+/* #region hero */
+.star{
+    width: 30%;
+}
+.star>*{
+    padding: 0 1rem;
+}
+.white_bar{
+    border: 2px solid white;
+    width: 60%;
+}
+/* #endregion hero */
